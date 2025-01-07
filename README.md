@@ -19,7 +19,7 @@
   
   <h1 align="left"> <b> ⚒ Tech Skills </b> </h1>
   
-  [![My Skills](https://skillicons.dev/icons?i=ruby,rails,php,laravel,js,typescript,wordpress,vue,react,git,github,mysql,aws,nodejs,docker,postgres,redis,aws,ps,ai,figma,bootstrap)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=ruby,rails,php,laravel,js,typescript,wordpress,vue,react,git,github,mysql,aws,nodejs,docker,postgres,redis,ps,ai,figma,bootstrap)](https://skillicons.dev)
   
 </div>
 
